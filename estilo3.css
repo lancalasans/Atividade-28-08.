@@ -1,0 +1,21 @@
+html, body{
+
+}
+
+.caixas{
+    
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+}
+
+.caixa{
+    color: #FFF;
+    border: 3px solid #333;
+    background-color: #FFF; 
+    width: 150px;
+    padding: 100px;
+    margin: 300px;
+}
